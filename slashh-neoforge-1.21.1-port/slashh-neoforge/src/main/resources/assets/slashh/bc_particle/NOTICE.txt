@@ -1,0 +1,1 @@
+particle_settings.json is taken from Better Combat Particle (bc_particle) by Malfu, licensed MIT.

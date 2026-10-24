@@ -1,0 +1,33 @@
+modLoader = "javafml"
+loaderVersion = "[4,)"
+license = "LGPL-3.0-or-later"
+
+[[mods]]
+modId = "slashh"
+version = "2.8"
+displayName = "Slashh"
+authors = "Misanthropy"
+description = '''Mod that adds nice slash particles on hits'''
+
+[[dependencies.slashh]]
+modId = "neoforge"
+type = "required"
+versionRange = "[21.1,)"
+ordering = "NONE"
+side = "BOTH"
+
+[[dependencies.slashh]]
+modId = "minecraft"
+type = "required"
+versionRange = "[1.21.1,1.22)"
+ordering = "NONE"
+side = "BOTH"
+
+# Better Combat Additions re-adds the jump-crit mechanic (which Better Combat removes) and exposes
+# the crit predicate this mod uses to pick the orange crit slash. Optional: load after it if present.
+[[dependencies.slashh]]
+modId = "bettercombatadditions"
+type = "optional"
+versionRange = "[0.3,)"
+ordering = "AFTER"
+side = "BOTH"

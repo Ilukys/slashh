@@ -1,0 +1,20 @@
+{
+  "slashh.settings.title": "Slashh Settings",
+  "slashh.settings.show": "Slashes",
+  "slashh.settings.show.tip": "Draw slashes at all.",
+  "slashh.settings.others": "Other Players",
+  "slashh.settings.others.tip": "Draw slashes from other players' hits.",
+  "slashh.settings.size": "Size",
+  "slashh.settings.opacity": "Opacity",
+  "slashh.settings.shake": "Camera Shake",
+  "slashh.settings.colours": "Type Colours",
+  "slashh.settings.colours.tip": "Colour each slash by the damage type of the hit: fire is orange, frost is pale blue, and so on.",
+  "slashh.settings.finishers": "Finishers",
+  "slashh.settings.finishers.tip": "The last swing of a weapon's combo is a crossed X-cut.",
+  "slashh.settings.sweeps": "Sweep Arcs",
+  "slashh.settings.sweeps.tip": "The extra targets of a sweep get a wide flat arc.",
+  "slashh.settings.spray": "Blood Spray",
+  "slashh.settings.spray.tip": "Blood hits and bleed bursts spray droplets.",
+  "slashh.settings.classic": "Classic Cuts",
+  "slashh.settings.classic.tip": "Use the old pixel cut instead of the smooth one."
+}
